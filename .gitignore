@@ -1,0 +1,36 @@
+# Miscellaneous
+*.class
+*.pyc
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+
+# General
+.DS_Store
+*.log
+*.swp
+.idea/
+.vscode/
+
+# Node.js backend
+backend/node_modules/
+backend/.env
+backend/npm-debug.log*
+
+# Flutter frontend
+frontend/.dart_tool/
+frontend/.packages
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+**/doc/api/
+**/ios/Flutter/.last_build_id
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/ios/.generated/
+frontend/ios/Flutter/flutter_export_environment.sh
+frontend/android/.gradle/
+frontend/android/gradle-wrapper.jar
+
